@@ -1,0 +1,397 @@
+{
+"result":{
+"query":"retrieval*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"11.50"
+},
+"completions":{
+"@total":"21",
+"@computed":"21",
+"@sent":"10",
+"c":[
+{
+"@sc":"39667",
+"@dc":"38738",
+"@oc":"39667",
+"@id":"26649125",
+"text":"retrieval"
+},
+{
+"@sc":"448",
+"@dc":"446",
+"@oc":"448",
+"@id":"26649135",
+"text":"retrievals"
+},
+{
+"@sc":"5",
+"@dc":"5",
+"@oc":"5",
+"@id":"26649136",
+"text":"retrievalsystem"
+},
+{
+"@sc":"4",
+"@dc":"4",
+"@oc":"4",
+"@id":"26649137",
+"text":"retrievalsysteme"
+},
+{
+"@sc":"3",
+"@dc":"3",
+"@oc":"3",
+"@id":"26649138",
+"text":"retrievalsystemen"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"26649141",
+"text":"retrievalumgebungen"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"26649133",
+"text":"retrievallab"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"26649143",
+"text":"retrievalverfahren"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"26649129",
+"text":"retrievalframework"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"26649134",
+"text":"retrievalmethoden"
+}
+]
+},
+"hits":{
+"@total":"39197",
+"@computed":"100",
+"@sent":"50",
+"@first":"0",
+"hit":[{
+"@score":"4",
+"@id":"4735465",
+"info":{"authors":{"author":[{"@pid":"24/566","text":"Anni Coden"},{"@pid":"b/EricWBrown1","text":"Eric W. Brown 0001"},{"@pid":"84/6295","text":"Savitha Srinivasan"}]},"title":"Information Retrieval Techniques for Speech Applications [this book is based on the workshop &quot;Information Retrieval Techniques for Speech Applications&quot;, held as part of the 24th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in New Orleans, USA, in September 2001]","venue":["SIGIR Workshop - Information Retrieval Techniques for Speech Applications","Lecture Notes in Computer Science"],"volume":"2273","publisher":"Springer","year":"2002","type":"Editorship","key":"conf/sigir/2001w1","doi":"10.1007/3-540-45637-6","ee":"https://doi.org/10.1007/3-540-45637-6","url":"https://dblp.org/rec/conf/sigir/2001w1"},
+"url":"URL#4735465"
+},
+{
+"@score":"3",
+"@id":"820479",
+"info":{"authors":{"author":[{"@pid":"f/NicolaFerro","text":"Nicola Ferro 0001"},{"@pid":"11/6780","text":"Carol Peters"}]},"title":"Information Retrieval Evaluation in a Changing World - Lessons Learned from 20 Years of CLEF","venue":["Information Retrieval Evaluation in a Changing World","The Information Retrieval Series"],"volume":"41","publisher":"Springer","year":"2019","type":"Editorship","key":"books/sp/19/FP2019","doi":"10.1007/978-3-030-22948-1","ee":"https://doi.org/10.1007/978-3-030-22948-1","url":"https://dblp.org/rec/books/sp/19/FP2019"},
+"url":"URL#820479"
+},
+{
+"@score":"3",
+"@id":"886090",
+"info":{"authors":{"author":{"@pid":"98/6116","text":"Robert M. Losee"}},"title":"Predicting Information Retrieval Performance","venue":["Predicting Information Retrieval Performance","Synthesis Lectures on Information Concepts, Retrieval, and Services"],"publisher":"Morgan &amp; Claypool Publishers","year":"2018","type":"Books and Theses","key":"series/synthesis/2018Losee","doi":"10.2200/S00887ED1V01Y201811ICR065","ee":"https://doi.org/10.2200/S00887ED1V01Y201811ICR065","url":"https://dblp.org/rec/series/synthesis/2018Losee"},
+"url":"URL#886090"
+},
+{
+"@score":"3",
+"@id":"2467283",
+"info":{"authors":{"author":[{"@pid":"33/1111","text":"Mathias Lux"},{"@pid":"50/5802","text":"Oge Marques"}]},"title":"Visual Information Retrieval Using Java and LIRE","venue":["Visual Information Retrieval Using Java and LIRE","Synthesis Lectures on Information Concepts, Retrieval, and Services"],"publisher":"Morgan &amp; Claypool Publishers","year":"2013","type":"Books and Theses","key":"series/synthesis/2013Lux","doi":"10.2200/S00468ED1V01Y201301ICR025","ee":"https://doi.org/10.2200/S00468ED1V01Y201301ICR025","url":"https://dblp.org/rec/series/synthesis/2013Lux"},
+"url":"URL#2467283"
+},
+{
+"@score":"3",
+"@id":"2467300",
+"info":{"authors":{"author":{"@pid":"r/TRolleke","text":"Thomas Roelleke"}},"title":"Information Retrieval Models - Foundations &amp; Relationships","venue":["Information Retrieval Models - Foundations &amp; Relationships","Synthesis Lectures on Information Concepts, Retrieval, and Services"],"pages":"1-163","publisher":"Morgan &amp; Claypool Publishers","year":"2013","type":"Books and Theses","key":"series/synthesis/2013Roelleke","doi":"10.2200/S00494ED1V01Y201304ICR027","ee":"https://doi.org/10.2200/S00494ED1V01Y201304ICR027","url":"https://dblp.org/rec/series/synthesis/2013Roelleke"},
+"url":"URL#2467300"
+},
+{
+"@score":"3",
+"@id":"2505985",
+"info":{"authors":{"author":[{"@pid":"65/7185","text":"Nabila Nouaouria"},{"@pid":"b/MounirBoukadoum","text":"Mounir Boukadoum"}]},"title":"From Adaptation-Guided Retrieval to Reuse-Guided Retrieval - Application to Case Retrieval Net Memory Model.","venue":"Int. J. Inf. Technol. Decis. Mak.","volume":"12","number":"4","pages":"757-788","year":"2013","type":"Journal Articles","key":"journals/ijitdm/NouaouriaB13","doi":"10.1142/S0219622013500284","ee":"https://doi.org/10.1142/S0219622013500284","url":"https://dblp.org/rec/journals/ijitdm/NouaouriaB13"},
+"url":"URL#2505985"
+},
+{
+"@score":"3",
+"@id":"2719645",
+"info":{"authors":{"author":[{"@pid":"00/5451","text":"Marcin Detyniecki"},{"@pid":"87/319","text":"Ana García-Serrano"},{"@pid":"04/1237","text":"Andreas Nürnberger"},{"@pid":"73/650","text":"Sebastian Stober"}]},"title":"Adaptive Multimedia Retrieval. Large-Scale Multimedia Retrieval and Evaluation - 9th International Workshop, AMR 2011, Barcelona, Spain, July 18-19, 2011, Revised Selected Papers","venue":["Adaptive Multimedia Retrieval","Lecture Notes in Computer Science"],"volume":"7836","publisher":"Springer","year":"2013","type":"Editorship","key":"conf/amr/2011","doi":"10.1007/978-3-642-37425-8","ee":"https://doi.org/10.1007/978-3-642-37425-8","url":"https://dblp.org/rec/conf/amr/2011"},
+"url":"URL#2719645"
+},
+{
+"@score":"3",
+"@id":"3001638",
+"info":{"authors":{"author":{"@pid":"76/4928","text":"Donna Harman"}},"title":"Information Retrieval Evaluation","venue":["Information Retrieval Evaluation","Synthesis Lectures on Information Concepts, Retrieval, and Services"],"publisher":"Morgan &amp; Claypool Publishers","year":"2011","type":"Books and Theses","key":"series/synthesis/2011Harman","doi":"10.2200/S00368ED1V01Y201105ICR019","ee":"https://doi.org/10.2200/S00368ED1V01Y201105ICR019","url":"https://dblp.org/rec/series/synthesis/2011Harman"},
+"url":"URL#3001638"
+},
+{
+"@score":"3",
+"@id":"3247579",
+"info":{"authors":{"author":[{"@pid":"59/5636","text":"David Carmel"},{"@pid":"47/4458","text":"Elad Yom-Tov"}]},"title":"Estimating the Query Difficulty for Information Retrieval","venue":["Estimating the Query Difficulty for Information Retrieval","Synthesis Lectures on Information Concepts, Retrieval, and Services"],"publisher":"Morgan &amp; Claypool Publishers","year":"2010","type":"Books and Theses","key":"series/synthesis/2010Carmel","doi":"10.2200/S00235ED1V01Y201004ICR015","ee":"https://doi.org/10.2200/S00235ED1V01Y201004ICR015","url":"https://dblp.org/rec/series/synthesis/2010Carmel"},
+"url":"URL#3247579"
+},
+{
+"@score":"3",
+"@id":"3472392",
+"info":{"authors":{"author":{"@pid":"l/MLalmas","text":"Mounia Lalmas"}},"title":"XML Retrieval","venue":["XML Retrieval","Synthesis Lectures on Information Concepts, Retrieval, and Services"],"publisher":"Morgan &amp; Claypool Publishers","year":"2009","type":"Books and Theses","key":"series/synthesis/2009Lalmas","doi":"10.2200/S00203ED1V01Y200907ICR007","ee":"https://doi.org/10.2200/S00203ED1V01Y200907ICR007","url":"https://dblp.org/rec/series/synthesis/2009Lalmas"},
+"url":"URL#3472392"
+},
+{
+"@score":"3",
+"@id":"3472403",
+"info":{"authors":{"author":{"@pid":"61/4627","text":"Stefan M. Rüger"}},"title":"Multimedia Information Retrieval","venue":["Multimedia Information Retrieval","Synthesis Lectures on Information Concepts, Retrieval, and Services"],"publisher":"Morgan &amp; Claypool Publishers","year":"2009","type":"Books and Theses","key":"series/synthesis/2009Ruger","doi":"10.2200/S00244ED1V01Y200912ICR010","ee":"https://doi.org/10.2200/S00244ED1V01Y200912ICR010","url":"https://dblp.org/rec/series/synthesis/2009Ruger"},
+"url":"URL#3472403"
+},
+{
+"@score":"3",
+"@id":"3878990",
+"info":{"authors":{"author":[{"@pid":"55/4997","text":"Nozha Boujemaa"},{"@pid":"00/5451","text":"Marcin Detyniecki"},{"@pid":"04/1237","text":"Andreas Nürnberger"}]},"title":"Adaptive Multimedial Retrieval - Retrieval, User, and Semantics, 5th International Workshop, AMR 2007, Paris, France, July 5-6, 2007, Revised Selected Papers","venue":["Adaptive Multimedia Retrieval","Lecture Notes in Computer Science"],"volume":"4918","publisher":"Springer","year":"2008","type":"Editorship","key":"conf/amr/2007","doi":"10.1007/978-3-540-79860-6","ee":"https://doi.org/10.1007/978-3-540-79860-6","url":"https://dblp.org/rec/conf/amr/2007"},
+"url":"URL#3878990"
+},
+{
+"@score":"3",
+"@id":"3966812",
+"info":{"authors":{"author":[{"@pid":"86/5681","text":"Rongrong Ji"},{"@pid":"y/HongxunYao","text":"Hongxun Yao"},{"@pid":"59/962","text":"Shaohui Liu"},{"@pid":"09/534","text":"Jicheng Wang"},{"@pid":"04/383-1","text":"Pengfei Xu 0001"}]},"title":"A Novel Retrieval Refinement and Interaction Pattern by Exploring Result Correlations for Image Retrieval.","venue":"Adaptive Multimedia Retrieval","pages":"85-94","year":"2007","type":"Conference and Workshop Papers","key":"conf/amr/JiYLWX07","doi":"10.1007/978-3-540-79860-6_7","ee":"https://doi.org/10.1007/978-3-540-79860-6_7","url":"https://dblp.org/rec/conf/amr/JiYLWX07"},
+"url":"URL#3966812"
+},
+{
+"@score":"3",
+"@id":"4531042",
+"info":{"authors":{"author":[{"@pid":"c/JamesPCallan","text":"James P. Callan"},{"@pid":"c/FabioCrestani","text":"Fabio Crestani"},{"@pid":"s/MarkSanderson","text":"Mark Sanderson"}]},"title":"Distributed Multimedia Information Retrieval, SIGIR 2003 Workshop on Distributed Information Retrieval, Toronto, Canada, August 1, 2003, Revised Selected and Invited Papers","venue":["SIGIR Workshop - Distributed Multimedia Information Retrieval","Lecture Notes in Computer Science"],"volume":"2924","publisher":"Springer","year":"2004","type":"Editorship","key":"conf/sigir/2003dmir","doi":"10.1007/B95004","ee":"https://doi.org/10.1007/b95004","url":"https://dblp.org/rec/conf/sigir/2003dmir"},
+"url":"URL#4531042"
+},
+{
+"@score":"3",
+"@id":"4632317",
+"info":{"authors":{"author":[{"@pid":"20/3078","text":"Steven M. Beitzel"},{"@pid":"69/6635","text":"Eric C. Jensen"},{"@pid":"14/3331","text":"Abdur Chowdhury"},{"@pid":"g/DavidAGrossman","text":"David A. Grossman"},{"@pid":"46/4886","text":"Nazli Goharian"},{"@pid":"f/OphirFrieder","text":"Ophir Frieder"}]},"title":"Recent Results on Fusion of Effective Retrieval Strategies in the Same Information Retrieval System.","venue":"Distributed Multimedia Information Retrieval","pages":"101-111","year":"2003","type":"Conference and Workshop Papers","key":"conf/sigir/BeitzelJCGGF03","doi":"10.1007/978-3-540-24610-7_8","ee":"https://doi.org/10.1007/978-3-540-24610-7_8","url":"https://dblp.org/rec/conf/sigir/BeitzelJCGGF03"},
+"url":"URL#4632317"
+},
+{
+"@score":"2",
+"@id":"27996",
+"info":{"authors":{"author":[{"@pid":"43/56","text":"Tao Guo"},{"@pid":"215/2026","text":"Ruida Zhou"},{"@pid":"91/1253-2","text":"Chao Tian 0002"}]},"title":"New Results on the Storage-Retrieval Tradeoff in Private Information Retrieval Systems.","venue":"IEEE J. Sel. Areas Inf. Theory","volume":"2","number":"1","pages":"403-414","year":"2021","type":"Journal Articles","key":"journals/jsait/GuoZT21","doi":"10.1109/JSAIT.2021.3053217","ee":"https://doi.org/10.1109/JSAIT.2021.3053217","url":"https://dblp.org/rec/journals/jsait/GuoZT21"},
+"url":"URL#27996"
+},
+{
+"@score":"2",
+"@id":"34833",
+"info":{"authors":{"author":[{"@pid":"99/8985","text":"Chris Kidd"},{"@pid":"287/8141","text":"Toshi Matsui"},{"@pid":"123/5564","text":"Sarah Ringerud"}]},"title":"Precipitation Retrievals from Passive Microwave Cross-Track Sensors - The Precipitation Retrieval and Profiling Scheme.","venue":"Remote. Sens.","volume":"13","number":"5","pages":"947","year":"2021","type":"Journal Articles","key":"journals/remotesensing/KiddMR21","doi":"10.3390/RS13050947","ee":"https://doi.org/10.3390/rs13050947","url":"https://dblp.org/rec/journals/remotesensing/KiddMR21"},
+"url":"URL#34833"
+},
+{
+"@score":"2",
+"@id":"39305",
+"info":{"authors":{"author":[{"@pid":"58/6957","text":"Qi Yu"},{"@pid":"85/774","text":"Jun-Jie Huang"},{"@pid":"44/7667","text":"Jubo Zhu"},{"@pid":"76/2897-1","text":"Wei Dai 0001"},{"@pid":"47/1135","text":"Pier Luigi Dragotti"}]},"title":"Deep phase retrieval - Analyzing over-parameterization in phase retrieval.","venue":"Signal Process.","volume":"180","pages":"107866","year":"2021","type":"Journal Articles","key":"journals/sigpro/YuHZDD21","doi":"10.1016/J.SIGPRO.2020.107866","ee":"https://doi.org/10.1016/j.sigpro.2020.107866","url":"https://dblp.org/rec/journals/sigpro/YuHZDD21"},
+"url":"URL#39305"
+},
+{
+"@score":"2",
+"@id":"61517",
+"info":{"authors":{"author":[{"@pid":"f/IngoFrommholz","text":"Ingo Frommholz"},{"@pid":"59/561","text":"Philipp Mayr 0001"},{"@pid":"c/GCabanac","text":"Guillaume Cabanac"},{"@pid":"86/5095","text":"Suzan Verberne"}]},"title":"Proceedings of the 11th International Workshop on Bibliometric-enhanced Information Retrieval co-located with 43rd European Conference on Information Retrieval (ECIR 2021), Lucca, Italy (online only), April 1st, 2021.","venue":["BIR@ECIR","CEUR Workshop Proceedings"],"volume":"2847","publisher":"CEUR-WS.org","year":"2021","type":"Editorship","key":"conf/birws/2021","ee":"http://ceur-ws.org/Vol-2847","url":"https://dblp.org/rec/conf/birws/2021"},
+"url":"URL#61517"
+},
+{
+"@score":"2",
+"@id":"85104",
+"info":{"authors":{"author":[{"@pid":"75/5496","text":"David Hawking"},{"@pid":"96/204","text":"Bodo Billerbeck"},{"@pid":"84/6088-1","text":"Paul Thomas 0001"},{"@pid":"c/NickCraswell","text":"Nick Craswell"}]},"title":"Simulating Information Retrieval Test Collections","venue":"Synthesis Lectures on Information Concepts, Retrieval, and Services","publisher":"Morgan &amp; Claypool Publishers","year":"2020","type":"Books and Theses","key":"series/synthesis/2020Hawking","doi":"10.2200/S01043ED1V01Y202008ICR071","ee":"https://doi.org/10.2200/S01043ED1V01Y202008ICR071","url":"https://dblp.org/rec/series/synthesis/2020Hawking"},
+"url":"URL#85104"
+},
+{
+"@score":"2",
+"@id":"101339",
+"info":{"authors":{"author":[{"@pid":"278/8199","text":"Songchun Yang"},{"@pid":"278/8400","text":"Xiangwen Zheng"},{"@pid":"278/8205","text":"Xiangfei Yin"},{"@pid":"48/7435","text":"Huajian Mao"},{"@pid":"51/2970","text":"Dongsheng Zhao"}]},"title":"An Algorithm of Query Expansion for Chinese EMR Retrieval by Improving Expansion Term Weights and Retrieval Scores.","venue":"IEEE Access","volume":"8","pages":"200063-200072","year":"2020","type":"Journal Articles","key":"journals/access/YangZYMZ20","doi":"10.1109/ACCESS.2020.3033017","ee":"https://doi.org/10.1109/ACCESS.2020.3033017","url":"https://dblp.org/rec/journals/access/YangZYMZ20"},
+"url":"URL#101339"
+},
+{
+"@score":"2",
+"@id":"139926",
+"info":{"authors":{"author":[{"@pid":"06/988","text":"Daifeng Li"},{"@pid":"30/1340","text":"Lu Huang"},{"@pid":"263/2175","text":"Biyun Ye"},{"@pid":"257/4964","text":"Fangbin Wan"},{"@pid":"219/6593","text":"Andrew Madden"},{"@pid":"263/1939","text":"Xingjian Liang"}]},"title":"FSRM-STS - Cross-dataset pedestrian retrieval based on a four-stage retrieval model with Selection-Translation-Selection.","venue":"Future Gener. Comput. Syst.","volume":"107","pages":"601-619","year":"2020","type":"Journal Articles","key":"journals/fgcs/LiHYWML20","doi":"10.1016/J.FUTURE.2020.02.028","ee":"https://doi.org/10.1016/j.future.2020.02.028","url":"https://dblp.org/rec/journals/fgcs/LiHYWML20"},
+"url":"URL#139926"
+},
+{
+"@score":"2",
+"@id":"147462",
+"info":{"authors":{"author":[{"@pid":"187/8815","text":"Ana Belén Gil González"},{"@pid":"202/0419","text":"Andrea Vázquez-Ingelmo"},{"@pid":"81/8228","text":"Fernando de la Prieta"},{"@pid":"48/5387","text":"Ana de Luis-Reboredo"},{"@pid":"180/6246","text":"Alfonso González-Briones"}]},"title":"Patent retrieval architecture based on document retrieval. Sketching out the Spanish patent landscape.","venue":"Log. J. IGPL","volume":"28","number":"4","pages":"558-569","year":"2020","type":"Journal Articles","key":"journals/igpl/GonzalezVPLG20","doi":"10.1093/JIGPAL/JZZ055","ee":"https://doi.org/10.1093/jigpal/jzz055","url":"https://dblp.org/rec/journals/igpl/GonzalezVPLG20"},
+"url":"URL#147462"
+},
+{
+"@score":"2",
+"@id":"206688",
+"info":{"authors":{"author":[{"@pid":"257/8313","text":"Aliihsan Sekertekin"},{"@pid":"80/8958","text":"Stefania Bonafoni"}]},"title":"Land Surface Temperature Retrieval from Landsat 5, 7, and 8 over Rural Areas - Assessment of Different Retrieval Algorithms and Emissivity Models and Toolbox Implementation.","venue":"Remote. Sens.","volume":"12","number":"2","pages":"294","year":"2020","type":"Journal Articles","key":"journals/remotesensing/SekertekinB20","doi":"10.3390/RS12020294","ee":"https://doi.org/10.3390/rs12020294","url":"https://dblp.org/rec/journals/remotesensing/SekertekinB20"},
+"url":"URL#206688"
+},
+{
+"@score":"2",
+"@id":"209450",
+"info":{"authors":{"author":[{"@pid":"168/4272","text":"Müge Akbulut"},{"@pid":"56/2809","text":"Yasar Tonta"},{"@pid":"w/HowardDWhite","text":"Howard D. White"}]},"title":"Related records retrieval and pennant retrieval - an exploratory case study.","venue":"Scientometrics","volume":"122","number":"2","pages":"957-987","year":"2020","type":"Journal Articles","key":"journals/scientometrics/AkbulutTW20","doi":"10.1007/S11192-019-03303-9","ee":"https://doi.org/10.1007/s11192-019-03303-9","url":"https://dblp.org/rec/journals/scientometrics/AkbulutTW20"},
+"url":"URL#209450"
+},
+{
+"@score":"2",
+"@id":"280977",
+"info":{"authors":{"author":[{"@pid":"130/6377","text":"Edwin Thuma"},{"@pid":"184/2092","text":"Nkwebi Peace Motlogelwa"},{"@pid":"184/2035","text":"Tebo Leburu-Dingalo"},{"@pid":"261/0846","text":"Monkgogi Mudongo"}]},"title":"UB_ET at CheckThat! 2020 - Exploring Ad hoc Retrieval Approaches in Verified Claims Retrieval.","venue":"CLEF","year":"2020","type":"Conference and Workshop Papers","key":"conf/clef/ThumaMLM20","ee":"http://ceur-ws.org/Vol-2696/paper_204.pdf","url":"https://dblp.org/rec/conf/clef/ThumaMLM20"},
+"url":"URL#280977"
+},
+{
+"@score":"2",
+"@id":"280981",
+"info":{"authors":{"author":[{"@pid":"267/2642","text":"Ly-Duyen Tran"},{"@pid":"13/5240-3","text":"Manh-Duy Nguyen"},{"@pid":"06/2545","text":"Binh T. Nguyen"},{"@pid":"40/5060","text":"Cathal Gurrin"}]},"title":"An Experiment in Interactive Retrieval for the Lifelog Moment Retrieval Task at ImageCLEFlifelog2020.","venue":"CLEF","year":"2020","type":"Conference and Workshop Papers","key":"conf/clef/TranNNG20","ee":"http://ceur-ws.org/Vol-2696/paper_103.pdf","url":"https://dblp.org/rec/conf/clef/TranNNG20"},
+"url":"URL#280981"
+},
+{
+"@score":"2",
+"@id":"404667",
+"info":{"authors":{"author":[{"@pid":"62/6271","text":"Fu Lee Wang"},{"@pid":"83/8908","text":"Haoran Xie 0001"},{"@pid":"48/1707","text":"Wai Lam"},{"@pid":"78/5155","text":"Aixin Sun"},{"@pid":"82/2054","text":"Lun-Wei Ku"},{"@pid":"81/6701","text":"Tianyong Hao"},{"@pid":"c/WeiChen42","text":"Wei Chen 0042"},{"@pid":"28/2531","text":"Tak-Lam Wong"},{"@pid":"58/3976","text":"Xiaohui Tao"}]},"title":"Information Retrieval Technology - 15th Asia Information Retrieval Societies Conference, AIRS 2019, Hong Kong, November 7-9, 2019, Proceedings","venue":["AIRS","Lecture Notes in Computer Science"],"volume":"12004","publisher":"Springer","year":"2020","type":"Editorship","key":"conf/airs/2019","doi":"10.1007/978-3-030-42835-8","ee":"https://doi.org/10.1007/978-3-030-42835-8","url":"https://dblp.org/rec/conf/airs/2019"},
+"url":"URL#404667"
+},
+{
+"@score":"2",
+"@id":"404805",
+"info":{"authors":{"author":[{"@pid":"c/GCabanac","text":"Guillaume Cabanac"},{"@pid":"f/IngoFrommholz","text":"Ingo Frommholz"},{"@pid":"59/561","text":"Philipp Mayr 0001"}]},"title":"Proceedings of the 10th International Workshop on Bibliometric-enhanced Information Retrieval co-located with 42nd European Conference on Information Retrieval, BIR@ECIR 2020, Lisbon, Portugal, April 14th, 2020 [online only].","venue":["BIR@ECIR","CEUR Workshop Proceedings"],"volume":"2591","publisher":"CEUR-WS.org","year":"2020","type":"Editorship","key":"conf/birws/2020","ee":"http://ceur-ws.org/Vol-2591","url":"https://dblp.org/rec/conf/birws/2020"},
+"url":"URL#404805"
+},
+{
+"@score":"2",
+"@id":"405182",
+"info":{"authors":{"author":[{"@pid":"58/2715","text":"Francisco M. Couto"},{"@pid":"25/7120","text":"Martin Krallinger"}]},"title":"Proceedings of the Workshop on Semantic Indexing and Information Retrieval for Health from heterogeneous content types and languages co-located with 42nd European Conference on Information Retrieval, SIIRH@ECIR 2020, Lisbon, Portugal, April 14, 2020.","venue":["SIIRH@ECIR","CEUR Workshop Proceedings"],"volume":"2619","publisher":"CEUR-WS.org","year":"2020","type":"Editorship","key":"conf/ecir/2020siirh","ee":"http://ceur-ws.org/Vol-2619","url":"https://dblp.org/rec/conf/ecir/2020siirh"},
+"url":"URL#405182"
+},
+{
+"@score":"2",
+"@id":"406626",
+"info":{"authors":{"author":[{"@pid":"f/IngoFrommholz","text":"Ingo Frommholz"},{"@pid":"l/HaimingLiu2","text":"Haiming Liu 0002"},{"@pid":"34/194","text":"Massimo Melucci"}]},"title":"Proceedings of the First Workshop on Bridging the Gap between Information Science, Information Retrieval and Data Science (BIRDS 2020) co-located with 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020), Xi&apos;an, China (online only), July 30th, - 2020.","venue":["BIRDS@SIGIR","CEUR Workshop Proceedings"],"volume":"2741","publisher":"CEUR-WS.org","year":"2020","type":"Editorship","key":"conf/sigir/2020birds","ee":"http://ceur-ws.org/Vol-2741","url":"https://dblp.org/rec/conf/sigir/2020birds"},
+"url":"URL#406626"
+},
+{
+"@score":"2",
+"@id":"429028",
+"info":{"authors":{"author":[{"@pid":"228/7713","text":"Numan Khurshid"},{"@pid":"254/9442","text":"Talha Hanif"},{"@pid":"228/7765","text":"Mohbat Tharani"},{"@pid":"02/1709","text":"Murtaza Taj"}]},"title":"Cross-View Image Retrieval - Ground to Aerial Image Retrieval through Deep Learning.","venue":"CoRR","volume":"abs/2005.00725","year":"2020","type":"Informal Publications","key":"journals/corr/abs-2005-00725","ee":"https://arxiv.org/abs/2005.00725","url":"https://dblp.org/rec/journals/corr/abs-2005-00725"},
+"url":"URL#429028"
+},
+{
+"@score":"2",
+"@id":"448375",
+"info":{"authors":{"author":[{"@pid":"43/56","text":"Tao Guo"},{"@pid":"215/2026","text":"Ruida Zhou"},{"@pid":"91/1253-2","text":"Chao Tian 0002"}]},"title":"New Results on the Storage-Retrieval Tradeoff in Private Information Retrieval Systems.","venue":"CoRR","volume":"abs/2008.00960","year":"2020","type":"Informal Publications","key":"journals/corr/abs-2008-00960","ee":"https://arxiv.org/abs/2008.00960","url":"https://dblp.org/rec/journals/corr/abs-2008-00960"},
+"url":"URL#448375"
+},
+{
+"@score":"2",
+"@id":"485677",
+"info":{"authors":{"author":[{"@pid":"223/7830","text":"Muhammad Nabeel Asim"},{"@pid":"223/7795","text":"Muhammad Wasim"},{"@pid":"62/10781","text":"Muhammad Usman Ghani Khan"},{"@pid":"214/8315","text":"Nasir Mahmood"},{"@pid":"33/3341","text":"Waqar Mahmood"}]},"title":"The Use of Ontology in Retrieval - A Study on Textual, Multilingual, and Multimedia Retrieval.","venue":"IEEE Access","volume":"7","pages":"21662-21686","year":"2019","type":"Journal Articles","key":"journals/access/AsimWKMM19","doi":"10.1109/ACCESS.2019.2897849","ee":"https://doi.org/10.1109/ACCESS.2019.2897849","url":"https://dblp.org/rec/journals/access/AsimWKMM19"},
+"url":"URL#485677"
+},
+{
+"@score":"2",
+"@id":"568879",
+"info":{"authors":{"author":[{"@pid":"202/5424","text":"Shrikant A. Mehre"},{"@pid":"154/0966","text":"Ashis Kumar Dhara"},{"@pid":"174/8662","text":"Mandeep Garg"},{"@pid":"45/9131","text":"Naveen Kalra"},{"@pid":"59/9131","text":"Niranjan Khandelwal"},{"@pid":"45/518","text":"Sudipta Mukhopadhyay"}]},"title":"Content-Based Image Retrieval System for Pulmonary Nodules Using Optimal Feature Sets and Class Membership-Based Retrieval.","venue":"J. Digit. Imaging","volume":"32","number":"3","pages":"362-385","year":"2019","type":"Journal Articles","key":"journals/jdi/MehreDGKKM19","doi":"10.1007/S10278-018-0136-1","ee":"https://doi.org/10.1007/s10278-018-0136-1","url":"https://dblp.org/rec/journals/jdi/MehreDGKKM19"},
+"url":"URL#568879"
+},
+{
+"@score":"2",
+"@id":"599900",
+"info":{"authors":{"author":[{"@pid":"22/1805","text":"Ying Li"},{"@pid":"189/3733","text":"Gottfried Kirchengast"},{"@pid":"256/6010","text":"Barbara Scherllin-Pirscher"},{"@pid":"256/5572","text":"Marc Schwaerz"},{"@pid":"256/6100","text":"Johannes K. Nielsen"},{"@pid":"146/0350","text":"Shu-peng Ho"},{"@pid":"256/5870","text":"Yun-bin Yuan"}]},"title":"A New Algorithm for the Retrieval of Atmospheric Profiles from GNSS Radio Occultation Data in Moist Air and Comparison to 1DVar Retrievals.","venue":"Remote. Sens.","volume":"11","number":"23","pages":"2729","year":"2019","type":"Journal Articles","key":"journals/remotesensing/LiKSSNHY19","doi":"10.3390/RS11232729","ee":"https://doi.org/10.3390/rs11232729","url":"https://dblp.org/rec/journals/remotesensing/LiKSSNHY19"},
+"url":"URL#599900"
+},
+{
+"@score":"2",
+"@id":"600357",
+"info":{"authors":{"author":[{"@pid":"70/1552","text":"Hai Nguyen"},{"@pid":"89/6917","text":"Noel Cressie"},{"@pid":"248/0065","text":"Jonathan Hobbs"}]},"title":"Sensitivity of Optimal Estimation Satellite Retrievals to Misspecification of the Prior Mean and Covariance, with Application to OCO-2 Retrievals.","venue":"Remote. Sens.","volume":"11","number":"23","pages":"2770","year":"2019","type":"Journal Articles","key":"journals/remotesensing/NguyenCH19","doi":"10.3390/RS11232770","ee":"https://doi.org/10.3390/rs11232770","url":"https://dblp.org/rec/journals/remotesensing/NguyenCH19"},
+"url":"URL#600357"
+},
+{
+"@score":"2",
+"@id":"615327",
+"info":{"authors":{"author":[{"@pid":"243/0308","text":"Nils Kuchler"},{"@pid":"243/0370","text":"Ulrich Lohnert"}]},"title":"Radar-Radiometer-Based Liquid Water Content Retrievals of Warm Low-Level Clouds - How the Measurement Setup Affects Retrieval Uncertainties.","venue":"IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.","volume":"12","number":"5","pages":"1355-1361","year":"2019","type":"Journal Articles","key":"journals/staeors/KuchlerL19","doi":"10.1109/JSTARS.2019.2908414","ee":"https://doi.org/10.1109/JSTARS.2019.2908414","url":"https://dblp.org/rec/journals/staeors/KuchlerL19"},
+"url":"URL#615327"
+},
+{
+"@score":"2",
+"@id":"626148",
+"info":{"authors":{"author":[{"@pid":"18/1025","text":"Peilin Song"},{"@pid":"16/7712","text":"Jingfeng Huang"},{"@pid":"197/1956","text":"Lamin R. Mansaray"},{"@pid":"250/4642","text":"Huayang Wen"},{"@pid":"55/3851","text":"Hongyan Wu"},{"@pid":"94/2615","text":"Zhixiong Liu"},{"@pid":"29/7695","text":"Xiuzhen Wang"}]},"title":"An Improved Soil Moisture Retrieval Algorithm Based on the Land Parameter Retrieval Model for Water-Land Mixed Pixels Using AMSR-E Data.","venue":"IEEE Trans. Geosci. Remote. Sens.","volume":"57","number":"10","pages":"7643-7657","year":"2019","type":"Journal Articles","key":"journals/tgrs/SongHMWWLW19","doi":"10.1109/TGRS.2019.2915346","ee":"https://doi.org/10.1109/TGRS.2019.2915346","url":"https://dblp.org/rec/journals/tgrs/SongHMWWLW19"},
+"url":"URL#626148"
+},
+{
+"@score":"2",
+"@id":"629887",
+"info":{"authors":{"author":[{"@pid":"72/10609","text":"Karim Banawan"},{"@pid":"u/SennurUlukus","text":"Sennur Ulukus"}]},"title":"Noisy Private Information Retrieval - On Separability of Channel Coding and Information Retrieval.","venue":"IEEE Trans. Inf. Theory","volume":"65","number":"12","pages":"8232-8249","year":"2019","type":"Journal Articles","key":"journals/tit/BanawanU19c","doi":"10.1109/TIT.2019.2935440","ee":"https://doi.org/10.1109/TIT.2019.2935440","url":"https://dblp.org/rec/journals/tit/BanawanU19c"},
+"url":"URL#629887"
+},
+{
+"@score":"2",
+"@id":"698295",
+"info":{"authors":{"author":[{"@pid":"256/4295","text":"Jiaming Gao"},{"@pid":"29/1943","text":"Hui Ning"},{"@pid":"160/9608","text":"Huilin Sun"},{"@pid":"73/339","text":"Ruifeng Liu"},{"@pid":"06/6569","text":"Zhongyuan Han"},{"@pid":"04/7684","text":"Leilei Kong"},{"@pid":"54/4470","text":"Haoliang Qi"}]},"title":"FIRE2019@AILA - Legal Retrieval Based on Information Retrieval Model.","venue":"FIRE","pages":"64-69","year":"2019","type":"Conference and Workshop Papers","key":"conf/fire/GaoNSLHKQ19","ee":"http://ceur-ws.org/Vol-2517/T1-11.pdf","url":"https://dblp.org/rec/conf/fire/GaoNSLHKQ19"},
+"url":"URL#698295"
+},
+{
+"@score":"2",
+"@id":"704279",
+"info":{"authors":{"author":{"@pid":"217/2512","text":"Lorik Dumani"}},"title":"Good Premises Retrieval via a Two-Stage Argument Retrieval Model.","venue":"Grundlagen von Datenbanken","pages":"3-8","year":"2019","type":"Conference and Workshop Papers","key":"conf/gvd/Dumani19","ee":"http://ceur-ws.org/Vol-2367/paper_13.pdf","url":"https://dblp.org/rec/conf/gvd/Dumani19"},
+"url":"URL#704279"
+},
+{
+"@score":"2",
+"@id":"722275",
+"info":{"authors":{"author":[{"@pid":"232/9725","text":"Radhakrishna Bhat"},{"@pid":"59/3555","text":"N. R. Sunitha"}]},"title":"An efficient user privacy preserving multi-server private information retrieval - an efficient privacy preserving information storage and retrieval framework.","venue":"ICDCN","pages":"509","year":"2019","type":"Conference and Workshop Papers","key":"conf/icdcn/BhatS19","doi":"10.1145/3288599.3299724","ee":"https://doi.org/10.1145/3288599.3299724","url":"https://dblp.org/rec/conf/icdcn/BhatS19"},
+"url":"URL#722275"
+},
+{
+"@score":"2",
+"@id":"733311",
+"info":{"authors":{"author":[{"@pid":"228/7713","text":"Numan Khurshid"},{"@pid":"254/9442","text":"Talha Hanif"},{"@pid":"228/7765","text":"Mohbat Tharani"},{"@pid":"02/1709","text":"Murtaza Taj"}]},"title":"Cross-View Image Retrieval - Ground to Aerial Image Retrieval Through Deep Learning.","venue":"ICONIP","pages":"210-221","year":"2019","type":"Conference and Workshop Papers","key":"conf/iconip/KhurshidHTT19","doi":"10.1007/978-3-030-36711-4_19","ee":"https://doi.org/10.1007/978-3-030-36711-4_19","url":"https://dblp.org/rec/conf/iconip/KhurshidHTT19"},
+"url":"URL#733311"
+},
+{
+"@score":"2",
+"@id":"739136",
+"info":{"authors":{"author":[{"@pid":"240/8673","text":"Shubham Chatterjee"},{"@pid":"85/5754","text":"Laura Dietz"}]},"title":"Why does this Entity matter? - Support Passage Retrieval for Entity Retrieval.","venue":"ICTIR","pages":"221-224","year":"2019","type":"Conference and Workshop Papers","key":"conf/ictir/ChatterjeeD19","doi":"10.1145/3341981.3344243","ee":"https://doi.org/10.1145/3341981.3344243","url":"https://dblp.org/rec/conf/ictir/ChatterjeeD19"},
+"url":"URL#739136"
+},
+{
+"@score":"2",
+"@id":"744699",
+"info":{"authors":{"author":[{"@pid":"46/6181","text":"Shuyan Liu"},{"@pid":"18/10189","text":"Christopher Grassotti"},{"@pid":"73/9623","text":"Quanhua (Mark) Liu"},{"@pid":"253/4419","text":"Yong-Keun Lee"},{"@pid":"253/4397","text":"Ryan Honeyager"}]},"title":"The NOAA Microwave Integrated Retrieval System Multiple Satellite Rain Rate Retrieval and Monitoring.","venue":"IGARSS","pages":"7567-7570","year":"2019","type":"Conference and Workshop Papers","key":"conf/igarss/LiuGLLH19","doi":"10.1109/IGARSS.2019.8900172","ee":"https://doi.org/10.1109/IGARSS.2019.8900172","url":"https://dblp.org/rec/conf/igarss/LiuGLLH19"},
+"url":"URL#744699"
+},
+{
+"@score":"2",
+"@id":"764436",
+"info":{"authors":{"author":[{"@pid":"239/4373","text":"Kojima Yusuke"},{"@pid":"206/7185","text":"Tanaka Kanji"},{"@pid":"231/5228","text":"Naiming Yang"},{"@pid":"99/1256","text":"Yuji Hirota"},{"@pid":"211/8009","text":"Yamaguchi Kousuke"}]},"title":"From Comparison to Retrieval - Scalable Change Retrieval from Discriminatively Learned Deep Three-dimensional Neural Codes.","venue":"ITSC","pages":"789-795","year":"2019","type":"Conference and Workshop Papers","key":"conf/itsc/YusukeKYHK19","doi":"10.1109/ITSC.2019.8917170","ee":"https://doi.org/10.1109/ITSC.2019.8917170","url":"https://dblp.org/rec/conf/itsc/YusukeKYHK19"},
+"url":"URL#764436"
+},
+{
+"@score":"2",
+"@id":"765159",
+"info":{"authors":{"author":[{"@pid":"208/4657","text":"Haslizatul Mohamed Hanum"},{"@pid":"252/7819","text":"Nur Farhana Rasip"},{"@pid":"00/5034","text":"Zainab Abu Bakar"}]},"title":"Multi-word Similarity and Retrieval Model for a Refined Retrieval of Quranic Sentences.","venue":"IVIC","pages":"380-389","year":"2019","type":"Conference and Workshop Papers","key":"conf/ivic/HanumRB19","doi":"10.1007/978-3-030-34032-2_34","ee":"https://doi.org/10.1007/978-3-030-34032-2_34","url":"https://dblp.org/rec/conf/ivic/HanumRB19"},
+"url":"URL#765159"
+},
+{
+"@score":"2",
+"@id":"776254",
+"info":{"authors":{"author":[{"@pid":"98/7308","text":"Jiawei Wang"},{"@pid":"16/4831","text":"Shuai Zhu"},{"@pid":"144/1210","text":"Jiao Xu"},{"@pid":"193/7279","text":"Da Cao"}]},"title":"The Retrieval of the Beautiful - Self-Supervised Salient Object Detection for Beauty Product Retrieval.","venue":"ACM Multimedia","pages":"2548-2552","year":"2019","type":"Conference and Workshop Papers","key":"conf/mm/WangZXC19","doi":"10.1145/3343031.3356059","ee":"https://doi.org/10.1145/3343031.3356059","url":"https://dblp.org/rec/conf/mm/WangZXC19"},
+"url":"URL#776254"
+},
+{
+"@score":"2",
+"@id":"787531",
+"info":{"authors":{"author":[{"@pid":"29/3717","text":"Yufeng Shi"},{"@pid":"16/1184","text":"Xinge You"},{"@pid":"38/1956","text":"Wenjie Wang"},{"@pid":"39/800","text":"Feng Zheng"},{"@pid":"82/8614","text":"Qinmu Peng"},{"@pid":"63/1591","text":"Shuo Wang"}]},"title":"Retrieval by Classification - Discriminative Binary Embedding for Sketch-Based Image Retrieval.","venue":"PRCV","pages":"15-26","year":"2019","type":"Conference and Workshop Papers","key":"conf/prcv/ShiYWZPW19","doi":"10.1007/978-3-030-31726-3_2","ee":"https://doi.org/10.1007/978-3-030-31726-3_2","url":"https://dblp.org/rec/conf/prcv/ShiYWZPW19"},
+"url":"URL#787531"
+}
+]
+}
+}
+}
